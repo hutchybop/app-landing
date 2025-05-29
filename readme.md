@@ -3,6 +3,7 @@
 A simple web-based landing page built with **Node.js**, **Express**, and **EJS** to serve as a central hub for accessing my other Express-based web applications.
 
 🔗 Visit it live: [https://longrunner.co.uk](https://longrunner.co.uk)
+Note: If the website is down, I'm probably testing or updating it.
 
 ---
 
