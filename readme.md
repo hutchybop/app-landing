@@ -29,8 +29,8 @@ This project is still a work in progress. Feedback, feature requests, and contri
 
 Feel free to open issues or submit pull requests with:
 
-- Suggestions for UI/UX improvements
-- New feature ideas
-- Bug reports
+- Suggestions for UI/UX improvements.
+- New feature ideas.
+- Bug reports.
 
 ---
