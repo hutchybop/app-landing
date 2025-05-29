@@ -18,8 +18,8 @@ A simple web-based landing page built with **Node.js**, **Express**, and **EJS**
 
 ## 🛠️ Tech Stack
 
-- **Backend:** Node.js, Express.js
-- **Frontend:** EJS templates, HTML, CSS
+- **Backend:** Node.js, Express.js.
+- **Frontend:** EJS templates, HTML, CSS.
 
 ---
 
