@@ -159,6 +159,6 @@ app.use((req, res, next) => {
 app.use(errorHandler);
 
 // Start server on port 3001 using HTTP
-app.listen(3000, "0.0.0.0", () => {
+app.listen(3000, "127.0.0.1", () => {
   console.log("Server listening on PORT 3000 (http)");
 });
