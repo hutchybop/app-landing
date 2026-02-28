@@ -158,7 +158,8 @@ app.use((req, res, next) => {
 // Error Handler, from utils.
 app.use(errorHandler);
 
-// Start server on port 3001 using HTTP
-app.listen(3000, "127.0.0.1", () => {
-  console.log("Server listening on PORT 3000 (http)");
+// Start server on port using HTTP
+const port = 3000;
+app.listen(port, "0.0.0.0", () => {
+  console.log(`Server running on port ${port} on all interfaces`);
 });
